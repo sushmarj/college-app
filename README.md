@@ -24,6 +24,9 @@ You can see any errors by inspect in the console .
 
 ### WebPage Screenshot
 Screenshot of the User Interface.
+<img width="960" alt="c1" src="https://user-images.githubusercontent.com/52202834/91887728-c90db100-eca8-11ea-8ec0-52617924da56.png">
+<img width="960" alt="c2" src="https://user-images.githubusercontent.com/52202834/91887743-cca13800-eca8-11ea-9e68-0caf88b0545c.png">
+<img width="960" alt="c3" src="https://user-images.githubusercontent.com/52202834/91887749-cdd26500-eca8-11ea-8ff7-12bf05d42fc8.png">
 
 
 ### Skills used for this project
