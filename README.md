@@ -2,7 +2,7 @@
 
 ###  `React Application`
 
-Created a simple web application which contains all the details of the college, that access the API and display particular data with help of CSS style and display only the selected data in the page.
+Created a simple web application which contains all the details of the colleges, that accessed by API http://localhost:3000/colleges and display particular data with help of CSS style and display only the selected data in the page.
 
 
 ## Installation and Launch
@@ -18,6 +18,8 @@ To install node modules in the project which is used to run the compilation cont
 
 Runs the app in the project directory .<br />
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+
+I have connected server data and Frontend to run in a single terminal. 
 
 The page will reload if you make edits.<br />
 You can see any errors by inspect in the console .
